@@ -74,7 +74,7 @@ body {
     /* внешние отступы */
     margin-bottom: 50px;
     /*margin-left: 200px;*/
-    margin-right: 150px; 
+    margin-right: 100px; 
 
     /* top right bottom left */
     /* margin: 50px 400px 30px 500px; */
@@ -173,7 +173,8 @@ body {
     font-style: normal;
     font-size: 14px;
     line-height: 24px;
-    color: #595959;
+    color: #000000;
+    /* color: #595959; */
 }
 .work-item {
     font-style: normal;
