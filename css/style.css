@@ -140,6 +140,14 @@ body {
     color: #000000;
     margin-bottom: 10px;
 }
+.work-projects{
+    font-style: normal;
+    font-weight: 400;
+    font-size: 10px;
+    line-height: 20px;
+    color: #000000;
+    margin-bottom: 10px;
+}
 .organization {
     font-style: normal;
     font-weight: 700;
